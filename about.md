@@ -19,11 +19,12 @@ I am the prettiest girl in the world.
 	<!-- <a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a> -->
 	<a href="https://www.instagram.com/yerinhan/" target="_blank"><i class="fa fa-instagram"></i></a>
 	<a href="https://www.facebook.com/yerin.han.7" target="_blank"><i class="fa fa-facebook"></i></a>
+	<a href="http://yellinhan.wordpress.com/" target="_blank"><i class="fa fa-wordpress"></i></a>
 	<!-- <a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a> -->
 	<!-- <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a> -->
 </span>
 
 <div class="col three caption">
-	See my beautiful face here.
+	You can also find my articles and pics in aboves
 </div>
 
