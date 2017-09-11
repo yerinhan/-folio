@@ -3,8 +3,8 @@ title: yellin's blog
 email: hanyerin24@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   yellin's blog
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+baseurl:
+url:  yerinhan.github.io
 twitter_username: twitter_username
 github_username:  github_username
 
@@ -25,7 +25,4 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
-  poetry:
-    output: true
-    permalink: /blog/:path/
-
+  
